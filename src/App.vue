@@ -8,8 +8,8 @@
           </svg>
     
           <div class="mx-1 text-gray-700">
-            <h3 class="uppercase tracking-[0.15em] font-medium ">Mist Gardens</h3>
-            <p class="text-xs italic ">Museum & Botanical Garden</p>
+            <h3 class="uppercase tracking-[0.15em] font-medium ">Planted Pedgogy</h3>
+            <p class="text-xs italic ">Blog & Resources</p>
           </div>
         </a>
   
@@ -27,22 +27,18 @@
             </a>
   
             <a href="#" class="font-medium text-white lg:text-[#475F45] lg:hover:text-gray-400 lg:mx-4">
-                Visit
+                Blog
             </a>
   
             <a href="#" class="font-medium text-white lg:text-[#475F45] lg:hover:text-gray-400 lg:mx-4">
-                Exhibitions
+                Resources
             </a>
   
             <a href="#" class="font-medium text-white lg:text-[#475F45] lg:hover:text-gray-400 lg:mx-4">
-                Programs & Events
+                Contact
             </a>
   
-            <a href="#" class="font-medium text-white lg:text-[#475F45] lg:hover:text-gray-400 lg:mx-4">
-                Store
-            </a>
-  
-            <a class="px-8 py-2.5 text-white lg:text-[#475F45] lg:hover:bg-[#475F45] lg:hover:text-white duration-300 transition-colors font-medium lg:mx-4 border-2 lg:border-[#475F45] border-white" href="#">Membership</a>
+            <a class="px-8 py-2.5 text-white lg:text-[#475F45] lg:hover:bg-[#475F45] lg:hover:text-white duration-300 transition-colors font-medium lg:mx-4 border-2 lg:border-[#475F45] border-white" href="#">Newsletter</a>
         </nav>
       </div>
     </div>
@@ -50,17 +46,17 @@
 
   <section class="container flex flex-col items-center px-6 py-12 mx-auto lg:flex-row">
       <div class="lg:w-1/2">
-        <h1 class="max-w-xl font-serif text-4xl font-medium tracking-wide text-[#343D33] capitalize md:text-6xl ">A beatiful adventure awaits</h1>
+        <h1 class="max-w-xl font-serif text-4xl font-medium tracking-wide text-[#343D33] capitalize md:text-6xl ">Planted Pedgogy</h1>
 
-        <p class="max-w-lg mt-4 text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam voluptatibus perferendis odit optio.</p>
+        <p class="max-w-lg mt-4 text-gray-500">A one way stop for all your blogs and school resources</p>
         
         <div class="mt-6 sm:flex sm:items-center">
           <a href="#" class="bg-[#475F45] hover:bg-[#475F45]/80 duration-300 transition-colors border-2 border-[#475F45] px-6 block text-center py-3 uppercase text-sm font-bold leading-4 tracking-widest text-white ">
-            Buy Tickets
+            Resources
           </a>
 
           <a href="#" class="border-2 text-sm duration-300 transition-colors hover:bg-[#475F45] hover:text-white font-bold leading-4 mt-4 sm:mt-0 tracking-widest text-[#475F45] sm:mx-4 border-[#475F45] px-6 block text-center py-3 uppercase">
-            Learn More
+            Blogs
           </a>
         </div>
       </div>
@@ -77,7 +73,7 @@
         
         <div class="mt-8 lg:w-1/2 lg:mx-6 lg:mt-0">
           <h3 class="font-serif text-2xl text-white capitalize md:text-4xl lg:text-5xl">
-            Discover yourself with nature
+            Newsletter Section
           </h3>
 
           <p class="mt-4 text-gray-200 ">
@@ -85,27 +81,26 @@
           </p>
           
           <a class="inline-flex px-6 py-3 mt-6 text-white border-2 border-white hover:bg-[#475F45] duration-300 transition-colors" href="#">
-            Learn More
+            SIGN UP
           </a>
         </div>
       </div>
-
-        <img class="order-1 object-cover lg:order-2 w-ful h-72 lg:h-96 lg:mt-12" src="https://images.unsplash.com/photo-1610462275440-4ea0976f46f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" alt="">
+      <!-- <img class="order-1 object-cover lg:order-2 w-ful h-72 lg:h-96 lg:mt-12" src="https://images.unsplash.com/photo-1610462275440-4ea0976f46f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" alt=""> -->
     </div>
   </section>
 
   <section class="container px-6 py-12 mx-auto lg:py-16">
     <h3 class="font-serif text-3xl text-[#343D33] capitalize md:text-4xl lg:text-5xl">
-      News & Updates
+      Blogs
     </h3>
     
     <div class="mt-8 xl:-mx-6 xl:flex">
       <div class="xl:w-1/2 xl:mx-6">
         <img class="object-cover w-full h-96" src="https://images.unsplash.com/photo-1626838524909-7c584c2266f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="">
 
-        <h2 class="mt-6 font-serif text-3xl font-medium text-gray-700">Plants Around Us</h2>
+        <h2 class="mt-6 font-serif text-3xl font-medium text-gray-700">Blog #1</h2>
 
-        <p class="mt-2 text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt facilisis nuncLorem ipsum dolor sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+        <p class="mt-2 text-gray-500">This blog is still in production...</p>
 
         <p class="mt-4 italic text-gray-600">December 23, 2021</p>
       </div>
@@ -115,11 +110,11 @@
           <img class="object-cover w-full h-56 md:h-48 md:mx-4 md:w-80 shrink-0" src="https://images.unsplash.com/photo-1556426356-0fdc8b663467?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1498&q=80" alt="">
 
           <div class="mt-6 md:mx-4 md:mt-0">
-            <h2 class="font-serif text-2xl font-medium text-gray-700 ">Lush Gardens</h2>
+            <h2 class="font-serif text-2xl font-medium text-gray-700 ">Blog #2</h2>
   
-            <p class="mt-2 text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt facilisis nuncLorem ipsum dolor sit...</p>
+            <p class="mt-2 text-gray-500">This blog is still in production...</p>
   
-            <p class="mt-4 italic text-gray-600">December 16, 2021</p>
+            <p class="mt-4 italic text-gray-600">November 1, 2023</p>
           </div>
         </div>
 
@@ -127,11 +122,11 @@
           <img class="object-cover w-full h-56 md:h-48 md:mx-4 md:w-80 shrink-0" src="https://images.unsplash.com/photo-1583470790878-4f4f3811a01f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80" alt="">
 
           <div class="mt-6 md:mx-4 md:mt-0">
-            <h2 class="font-serif text-2xl font-medium text-gray-700 ">Exotic Nature</h2>
+            <h2 class="font-serif text-2xl font-medium text-gray-700 ">Blog #3</h2>
   
-            <p class="mt-2 text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt facilisis nuncLorem ipsum dolor sit...</p>
+            <p class="mt-2 text-gray-500">This blog is still in production...</p>
   
-            <p class="mt-4 italic text-gray-600">November 11, 2021</p>
+            <p class="mt-4 italic text-gray-600">November 1, 2023</p>
           </div>
         </div>
 
@@ -139,11 +134,11 @@
           <img class="object-cover w-full h-56 md:h-48 md:mx-4 md:w-80 shrink-0" src="https://images.unsplash.com/photo-1638790491374-a2affccd8c8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="">
 
           <div class="mt-6 md:mx-4 md:mt-0">
-            <h2 class="font-serif text-2xl font-medium text-gray-700 ">It Starts with Soil</h2>
+            <h2 class="font-serif text-2xl font-medium text-gray-700 ">Blog #4</h2>
   
-            <p class="mt-2 text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt facilisis nuncLorem ipsum dolor sit...</p>
+            <p class="mt-2 text-gray-500">This blog is still in production...</p>
   
-            <p class="mt-4 italic text-gray-600">November 3, 2021</p>
+            <p class="mt-4 italic text-gray-600">November 1, 2023</p>
           </div>
         </div>
       </div>
@@ -159,23 +154,22 @@
           </svg>
 
           <div class="mx-2 text-white">
-            <h3 class="font-medium tracking-widest uppercase">Mist Gardens</h3>
-            <p class="mt-1 text-xs italic leading-3 tracking-wide capitalize">museum & botanical garden</p>
+            <h3 class="font-medium tracking-widest uppercase">Planted Pedgogy</h3>
+            <p class="mt-1 text-xs italic leading-3 tracking-wide capitalize">Blog & Resources</p>
           </div>
         </a>
 
         <p class="max-w-lg mt-6 leading-relaxed text-white ">
-         Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt voluptatum amet molestiae consequatur quam velit sint modi aut illo dolorem.
+         A one way stop for all your blogs and school resources
         </p>
       </div>
 
       <div class="flex flex-col space-y-4">
         <a href="#" class="text-white hover:text-gray-300">Home</a>
-        <a href="#" class="text-white hover:text-gray-300">Visit</a>
-        <a href="#" class="text-white hover:text-gray-300">Exhibitions</a>
-        <a href="#" class="text-white hover:text-gray-300">Programs & Events</a>
-        <a href="#" class="text-white hover:text-gray-300">Store</a>
-        <a href="#" class="text-white hover:text-gray-300">Membership</a>
+        <a href="#" class="text-white hover:text-gray-300">Blogs</a>
+        <a href="#" class="text-white hover:text-gray-300">Resources</a>
+        <a href="#" class="text-white hover:text-gray-300">Contact</a>
+        <a href="#" class="text-white hover:text-gray-300">Newsletter</a>
       </div>
       
       <div>
@@ -213,7 +207,7 @@
     </div>
     
     <p class="w-full py-6 mx-auto text-white text-center bg-[#343D33]">
-      &copy; 2022 Mist Gardens. All rights reserved.
+      &copy; 2023 Kodetic. All rights reserved
     </p>
   </footer>
 </template>
